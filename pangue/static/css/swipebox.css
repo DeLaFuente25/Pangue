@@ -54,7 +54,7 @@
   width: 40%;
   height: 50%;
   vertical-align: middle;
-  border: 12px solid #F82F27 !important;
+  border: 12px solid #FFFF00 !important;
   border-radius: 4px;
 }
 
@@ -232,6 +232,6 @@
 #swipebox-slider .slide img {
 	  width: 80%;
 	  height: 35%;
-	    border: 5px solid #F82F27 !important;
+	    border: 5px solid #FFFF00 !important;
 	}
 }
